@@ -1,0 +1,76 @@
+{
+      "salads": [
+          {
+              "name":"Цезарь с курицей",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/ffe6f918-b9b2-414a-be63-a80b0084e5ba.jpg?raw=true",
+              "weight": 120,
+              "cost": 150
+          },
+          {
+              "name":"Цезарь с креветками",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/2228eebf-07f6-409e-9115-a80b00848791.jpg?raw=true",
+              "weight": 120,
+              "cost": 170
+          },
+          {
+              "name":"Салат фунчоза с креветками",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/75bad6b6-c44b-466d-a59d-a81600965785.jpg?raw=true",
+              "weight": 100,
+              "cost": 130
+          },
+          {
+              "name":"Греческий",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/3.jpg?raw=true",
+              "weight": 120,
+              "cost": 150
+          }
+      ],
+      "desserts": [
+          {
+              "name": "Чизкейк классический",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chizkeyk1.jpg?raw=true",
+              "weight": 70,
+              "cost": 120
+          },
+          {
+              "name": "Чизкейк шоколадный",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chizkeyk2.jpg?raw=true",
+              "weight": 70,
+              "cost": 120
+          },
+          {
+              "name": "Тирамису",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/tiramissu.jpg?raw=true",
+              "weight": 90,
+              "cost": 140
+          },
+          {
+              "name": "Маффин шоколадный",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/maffin.jpg?raw=true",
+              "weight": 70,
+              "cost": 90
+          }
+      ],
+      "beverages": [
+          {
+              "name": "Кока-Кола, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/cola.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "Спрайт, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/sprite.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "Фанта, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/fanta.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "kozel светлое, 0.5 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/kozel.jpg?raw=true",
+              "cost": 120
+          }
+      ]
+}
